@@ -1,1 +1,13 @@
 
+##  installing and setting up SASS
+
+1. Navigate to your project directory
+- cd your-project-folder
+
+2. Install SASS as a development dependency
+- npm install sass --save-dev
+
+3. Compiling SASS/SCSS
+- npx sass input.scss output.css
+
+
