@@ -1,0 +1,24 @@
+
+##  installing and setting up SASS
+
+1. I navigated to tye folder I wanted my project
+##  installing and setting up SASS
+
+1. Then i Navigated to my project directory
+- cd your-project-folder
+
+2. Install SASS as a development dependency
+- npm install sass --save-dev
+
+3. Compiling SASS/SCSS
+- npx sass input.scss output.css
+
+to my project directory
+- cd your-project-folder
+
+2. Install SASS as a development dependency
+- npm install sass --save-dev
+
+3. Compiling SASS/SCSS
+- npx sass input.scss output.css
+
